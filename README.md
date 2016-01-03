@@ -1,3 +1,14 @@
+Dimas Note :
+
+1. use ps -u "dimas" > "log.txt"
+2. use date > "date.txt"
+3. use cat log.txt date.txt > "log.txt"
+4. use upstart to automatically run suterusu (TODO : edit suterusu command)
+5. TODO : shell script to automate send log to destination IP
+
+============
+
+
 Suterusu
 ========
 
